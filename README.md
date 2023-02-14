@@ -1,1 +1,7 @@
-# lab-pbw-b-SitiNurrahmasita
+# Ini merupakan repository tugas praktikum Pemrograman Berbasis Web INF 224 USK 2023
+ 
+## Data Diri
+ 
+Nama  : Siti Nurrahmasita
+
+NPM   : 2108107010015
